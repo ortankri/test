@@ -1,7 +1,16 @@
 {
-    "swagger": "2.0",
-    "info": {
-        "title": "gdfgdfg",
-        "description": "dfgdfg"
+  "swagger": "2.0",
+  "info": {
+    "title": "gdfgdfg",
+    "description": "dfgdfg"
+  },
+  "paths": {
+    "/sdfsdfsdf": {
+      "get": {
+        "responses": {
+          "200": {}
+        }
+      }
     }
+  }
 }
