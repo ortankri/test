@@ -2,13 +2,16 @@
   "swagger": "2.0",
   "info": {
     "title": "gdfgdfg",
-    "description": "dfgdfg"
+    "description": "dfgdfg",
+    "version": "1"
   },
   "paths": {
     "/sdfsdfsdf": {
       "get": {
         "responses": {
-          "200": {}
+          "200": {
+            "description": "sdfsdfsdf"
+          }
         }
       }
     }
